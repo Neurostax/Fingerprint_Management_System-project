@@ -54,6 +54,3 @@ A web-based attendance management system with role-based access control, real-ti
 └── index.php
 ```
 
-## License
-
-MIT License 
